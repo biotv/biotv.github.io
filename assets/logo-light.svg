@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 64" role="img" aria-labelledby="title">
+  <title id="title">BioTV</title>
+  <rect x="2" y="5" width="54" height="54" rx="7" fill="#d9ff43"/>
+  <path d="M23 18.5 43 32 23 45.5Z" fill="#171918"/>
+  <text
+    x="70"
+    y="47"
+    fill="#ffffff"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="42"
+    font-weight="900"
+    letter-spacing="0"
+  >BioTV</text>
+  <circle cx="219" cy="45" r="5" fill="#d9ff43"/>
+</svg>

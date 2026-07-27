@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <clipPath id="preview-clip">
+      <rect x="680" y="58" width="454" height="514" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="630" fill="#171918"/>
+  <rect x="0" y="0" width="14" height="630" fill="#d9ff43"/>
+  <rect x="64" y="59" width="54" height="54" rx="7" fill="#d9ff43"/>
+  <path d="M85 72.5 105 86 85 99.5Z" fill="#171918"/>
+  <text
+    x="132"
+    y="101"
+    fill="#ffffff"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="42"
+    font-weight="900"
+    letter-spacing="0"
+  >BioTV</text>
+  <circle cx="281" cy="99" r="5" fill="#d9ff43"/>
+
+  <text
+    x="64"
+    y="193"
+    fill="#d9ff43"
+    font-family="Arial, sans-serif"
+    font-size="17"
+    font-weight="800"
+    letter-spacing="0"
+  >PÁGINAS SIMPLES. PRESENÇA PROFISSIONAL.</text>
+  <text
+    x="64"
+    y="257"
+    fill="#ffffff"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="44"
+    font-weight="900"
+    letter-spacing="0"
+  >
+    <tspan x="64" dy="0">A sua página,</tspan>
+    <tspan x="64" dy="50">pronta para</tspan>
+    <tspan x="64" dy="50">entrar no ar.</tspan>
+  </text>
+  <text
+    x="64"
+    y="426"
+    fill="#bfc6c0"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    letter-spacing="0"
+  >
+    <tspan x="64" dy="0">Perfil profissional ou landing page</tspan>
+    <tspan x="64" dy="32">personalizada para o seu empreendimento.</tspan>
+  </text>
+
+  <rect x="64" y="484" width="232" height="88" rx="6" fill="#d9ff43"/>
+  <text
+    x="84"
+    y="514"
+    fill="#4d6400"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    font-weight="800"
+    letter-spacing="0"
+  >VALOR ÚNICO</text>
+  <text
+    x="84"
+    y="556"
+    fill="#171918"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="42"
+    font-weight="900"
+    letter-spacing="0"
+  >50 €</text>
+
+  <rect x="680" y="58" width="454" height="514" rx="8" fill="#ffffff"/>
+  <image
+    href="kennedy-preview.png"
+    x="680"
+    y="58"
+    width="454"
+    height="514"
+    preserveAspectRatio="xMidYMin slice"
+    clip-path="url(#preview-clip)"
+  />
+  <rect x="680" y="564" width="454" height="8" fill="#2667ff"/>
+</svg>

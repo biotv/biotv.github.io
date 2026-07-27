@@ -63,16 +63,15 @@ a {
 }
 
 .brand {
+  display: inline-flex;
+  align-items: center;
   width: max-content;
-  color: inherit;
-  font-size: 1.7rem;
-  font-weight: 900;
-  line-height: 1;
   text-decoration: none;
 }
 
-.brand span {
-  color: var(--acid);
+.brand-logo {
+  width: 126px;
+  height: auto;
 }
 
 .site-header nav {
@@ -772,7 +771,10 @@ h1 {
 
 .footer-brand {
   margin-bottom: 10px;
-  color: var(--ink);
+}
+
+.footer-brand .brand-logo {
+  width: 136px;
 }
 
 .site-footer p {
@@ -865,8 +867,8 @@ h1 {
     min-height: 66px;
   }
 
-  .brand {
-    font-size: 1.45rem;
+  .brand-logo {
+    width: 108px;
   }
 
   .header-action {
